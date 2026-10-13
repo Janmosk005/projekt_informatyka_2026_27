@@ -1,4 +1,4 @@
-# projekt_informatyka_2026_27
+Projekt informatyka 2026/27
 
 Autor: Jan Moskwa
 Laboratorium informatyki 2026/27
